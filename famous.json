@@ -1,0 +1,25 @@
+{ 
+    "dwayne" : {
+        "full name" : "Dwayne Johnson",
+        "other names" : ["The Rock", "Flex Kavana", "Rocky Maiva"],
+        "wikipedia" : "https://en.wikipedia.org/wiki/Dwayne_Johnson",
+        "born" : 1972,
+        "place of birth" : "Hayward, Callifornia",
+        "height_inches" : 77,
+        "author" : false,
+        "tv show" : null
+    },  
+    "jamesharrison" : {
+        "full name" : "James Henry Harrison Jr",
+        "other names" : ["Deebo", "Silverback"],
+        "wikipedia" : "https://en.wikipedia.org/wiki/James_Harrison_(American_football)",
+        "born" : 1978,
+        "place of birth" : "Akron, Ohio",
+        "height_inches" : 72,
+        "teams" : ["Kent State Golden Flashes" , "Pittsburgh Steelers"],
+        "acting" : ["SWAT" , "Heels"]
+    }
+}
+
+
+    
